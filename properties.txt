@@ -1,0 +1,13 @@
+# Refers to the top screen of the DS
+mainScreenScale=3.75
+mainScreenX=0
+mainScreenY=182
+mainScreenWidth=960
+mainScreenHeight=720
+
+# Refers to the bottom screen of the DS
+subScreenScale=3.75
+subScreenX=960
+subScreenY=182
+subScreenWidth=960
+subScreenHeight=720
