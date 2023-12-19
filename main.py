@@ -3,8 +3,14 @@ import sys
 
 from image import * 
 
-gameScripts = [ "Wanted", "Sort_or_Splode", "Bobomb_Squad", "Memory_Master" ]
-gameNames = [ "Wanted", "Sort or 'Splode", "Bob-omb Squad", "Memory Master" ]
+gameScripts = [ 
+    "Wanted", "Sort_or_Splode", "Bobomb_Squad", "Memory_Master", "Whack_a_Monty", 
+    "Snowball_Slalom", "Danger_Bobomb_Danger"
+]
+gameNames = [ 
+    "Wanted", "Sort or 'Splode", "Bob-omb Squad", "Memory Master", "Whack a Monty", 
+    "Snowball Slalom", "Danger, Bob-omb! Danger!"
+]
 gameScriptIndex = 1
 
 def loadApplication():
