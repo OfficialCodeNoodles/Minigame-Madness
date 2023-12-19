@@ -10,6 +10,9 @@ This program can play the following minigames...
 - Sort or 'Splode
 - Bob-omb Squad
 - Memory Master
+- Whack a Monty
+- Snowball Slalom
+- Danger, Bob-omb! Danger!
 
 # Dependencies
 
