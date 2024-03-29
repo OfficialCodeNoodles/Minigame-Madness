@@ -2,7 +2,7 @@
 
 Welecome to Minigame Madness! This is a Python program that can play minigames from NSMB and SM64DS.
 
-## What can it play?
+# What can it play?
 
 This program can play the following minigames...
 
